@@ -1,0 +1,7 @@
+# Versions used for the verified run (Python 3.12.9)
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8
+
+# Raw movement CSV aggregation
+pandas==3.0.2

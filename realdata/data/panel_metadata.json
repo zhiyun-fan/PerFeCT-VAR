@@ -1,0 +1,202 @@
+{
+  "dataset": "Dominick N25p17 linear interpolation; current shared-method implementation",
+  "categories": [
+    {
+      "code": "ana",
+      "en": "Analgesics",
+      "zh": "镇痛药"
+    },
+    {
+      "code": "bjc",
+      "en": "Bottled Juices",
+      "zh": "瓶装果汁"
+    },
+    {
+      "code": "che",
+      "en": "Cheeses",
+      "zh": "奶酪"
+    },
+    {
+      "code": "coo",
+      "en": "Cookies",
+      "zh": "曲奇及甜饼干"
+    },
+    {
+      "code": "cra",
+      "en": "Crackers",
+      "zh": "薄脆饼干"
+    },
+    {
+      "code": "did",
+      "en": "Dish Detergent",
+      "zh": "餐具洗涤剂"
+    },
+    {
+      "code": "fec",
+      "en": "Front-end-candies",
+      "zh": "收银区糖果"
+    },
+    {
+      "code": "frd",
+      "en": "Frozen Dinners",
+      "zh": "冷冻套餐"
+    },
+    {
+      "code": "fre",
+      "en": "Frozen Entrees",
+      "zh": "冷冻主菜"
+    },
+    {
+      "code": "frj",
+      "en": "Frozen Juices",
+      "zh": "冷冻果汁"
+    },
+    {
+      "code": "fsf",
+      "en": "Fabric Softeners",
+      "zh": "衣物柔顺剂"
+    },
+    {
+      "code": "gro",
+      "en": "Grooming Products",
+      "zh": "个人仪容护理用品"
+    },
+    {
+      "code": "lnd",
+      "en": "Laundry Detergents",
+      "zh": "衣物洗涤剂"
+    },
+    {
+      "code": "oat",
+      "en": "Oatmeal",
+      "zh": "燕麦粥及燕麦片"
+    },
+    {
+      "code": "sna",
+      "en": "Snack Crackers",
+      "zh": "休闲薄脆饼干"
+    },
+    {
+      "code": "soa",
+      "en": "Soaps",
+      "zh": "香皂及个人清洁用品"
+    },
+    {
+      "code": "tpa",
+      "en": "Toothpastes",
+      "zh": "牙膏"
+    }
+  ],
+  "stores": [
+    {
+      "store_id": 136,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 72,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 67,
+      "price_tier": "Low"
+    },
+    {
+      "store_id": 33,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 84,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 32,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 126,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 112,
+      "price_tier": "Low"
+    },
+    {
+      "store_id": 129,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 2,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 94,
+      "price_tier": "Low"
+    },
+    {
+      "store_id": 53,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 105,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 121,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 119,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 47,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 109,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 9,
+      "price_tier": "Medium"
+    },
+    {
+      "store_id": 80,
+      "price_tier": "CubFighter"
+    },
+    {
+      "store_id": 59,
+      "price_tier": "CubFighter"
+    },
+    {
+      "store_id": 137,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 68,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 93,
+      "price_tier": "High"
+    },
+    {
+      "store_id": 102,
+      "price_tier": "Low"
+    },
+    {
+      "store_id": 14,
+      "price_tier": "High"
+    }
+  ],
+  "price_order": [
+    "High",
+    "Medium",
+    "Low",
+    "CubFighter"
+  ],
+  "sources": {
+    "official_data_page": "https://www.chicagobooth.edu/research/kilts/research-data/dominicks",
+    "demographics_download": "https://www.chicagobooth.edu/boothsitecore/docs/dff/store-demos-customer-count/demo_stata.zip"
+  }
+}
